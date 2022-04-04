@@ -13,7 +13,7 @@ function App() {
         );
     } else {
         return (
-            <Class time={time} setType={setType}/>
+            <Class setType={setType}/>
         )
     }
 }
